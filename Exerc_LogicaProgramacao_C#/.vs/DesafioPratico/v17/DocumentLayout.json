@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\Git\\Projetos_RocketSeat\\Exerc_LogicaProgramacao_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C310F268-1125-48C7-8DE4-79353DEF4B5C}|DesafioPratico\\DesafioPratico.csproj|c:\\users\\daniel\\source\\git\\projetos_rocketseat\\exerc_logicaprogramacao_c#\\desafiopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C310F268-1125-48C7-8DE4-79353DEF4B5C}|DesafioPratico\\DesafioPratico.csproj|solutionrelative:desafiopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C310F268-1125-48C7-8DE4-79353DEF4B5C}|DesafioPratico\\DesafioPratico.csproj|c:\\users\\daniel\\source\\git\\projetos_rocketseat\\exerc_logicaprogramacao_c#\\desafiopratico\\exercicios\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C310F268-1125-48C7-8DE4-79353DEF4B5C}|DesafioPratico\\DesafioPratico.csproj|solutionrelative:desafiopratico\\exercicios\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\Git\\Projetos_RocketSeat\\Exerc_LogicaProgramacao_C#\\DesafioPratico\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioPratico\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\Git\\Projetos_RocketSeat\\Exerc_LogicaProgramacao_C#\\DesafioPratico\\Program.cs",
+              "RelativeToolTip": "DesafioPratico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:17:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\Git\\Projetos_RocketSeat\\Exerc_LogicaProgramacao_C#\\DesafioPratico\\Exercicios\\Exercicios.cs",
+              "RelativeDocumentMoniker": "DesafioPratico\\Exercicios\\Exercicios.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\Git\\Projetos_RocketSeat\\Exerc_LogicaProgramacao_C#\\DesafioPratico\\Exercicios\\Exercicios.cs",
+              "RelativeToolTip": "DesafioPratico\\Exercicios\\Exercicios.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:17:17.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
